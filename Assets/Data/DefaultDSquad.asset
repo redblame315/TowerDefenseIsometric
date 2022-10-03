@@ -1,0 +1,17 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_PrefabParentObject: {fileID: 0}
+  m_PrefabInternal: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: d2b1f599a3d9dcf4f90cca7a49efb7c0, type: 3}
+  m_Name: DefaultDSquad
+  m_EditorClassIdentifier: 
+  enemyPrefab: {fileID: 1607052239623410, guid: 061a3c0f4d2e5d5448f266d7ba1e4d1c,
+    type: 2}
+  timeBetweenSpawns: 1
+  enemiesToSpawn: 4
